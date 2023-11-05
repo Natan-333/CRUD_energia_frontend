@@ -27,5 +27,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 ## Pronto !!!
-O aruivo jason estará disponível no seu browser pelo endereço http://localhost:3000.
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
