@@ -3,9 +3,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://react.dev/)
 - [Styled Components](https://styled-components.com/)
-- [Typescript](https://www.typescriptlang.org/)
 - [Axios](https://github.com/axios/axios)
-- [Typescript](https://www.typescriptlang.org/)
 - [Javascript](https://www.javascript.com/)
 
 ---
