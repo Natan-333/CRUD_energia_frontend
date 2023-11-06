@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ```bash
 
   # Clonar o repositório
-  $ git clone 
+  $ git clone https://github.com/Natan-333/CRUD_energia_frontend
 
   # Acessar a pasta  💪
   $ cd frontend
