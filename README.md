@@ -29,3 +29,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Pronto !!!
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
+O arquivo Json estará disponível no seu browser pelo endereço http://localhost:8800.
+
